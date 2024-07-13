@@ -1,8 +1,8 @@
 {
-	"ip": "YOUR_SERVER_IP",
-	"port": "YOUR_SERVER_PORT",
-	"version": "YOUR_SERVER_VERSION",
-	"username": "NoNameBot",
+	"ip": "Sub2Isidro.aternos.me",
+	"port": "15375",
+	"version": "1.16.5",
+	"username": "afk_bot",
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
